@@ -1,0 +1,7 @@
+## DASK 
+Dask is open source and freely available. 
+Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love. 
+It is developed in coordination with other community projects like Numpy, Pandas and Scikit-Learn.
+
+The syntax of Dask is the same as Pandas. It doesn’t take much time for you to get onboarded if you are familiar with Pandas. 
+But, it’s not as simple as you think. You need to understand how Dask works and what are the functions or parameters that were implemented.
